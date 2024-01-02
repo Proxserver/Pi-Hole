@@ -1,7 +1,7 @@
 # Blocklisten für Pi-Hole und AdGuard Home. Die Blocklisten stammen teilweise von Dritten und können daher nicht auf Richtigkeit geprüft werden.
 
 
-# Pi-hole Standardlisten
+# Pi-hole Standardliste
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
