@@ -1,6 +1,6 @@
-# Blocklisten zur Ergänzung nach eigenem Ermessen. Die Listen stammen teilweise von Dritten und können daher nicht auf Richtigkeit geprüft werden. Doppelnennungen möglich.
+# Blocklisten für Pi-Hole und AdGUard Home. Die Blocklisten stammen teilweise von Dritten und können daher nicht auf Richtigkeit geprüft werden.
 
-# Eigene Listen (Copy & Paste):
+# Blocklisten (Copy & Paste):
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 
