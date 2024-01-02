@@ -1,4 +1,4 @@
-# Blocklisten für Pi-Hole und AdGUard Home. Die Blocklisten stammen teilweise von Dritten und können daher nicht auf Richtigkeit geprüft werden.
+# Blocklisten für Pi-Hole und AdGuard Home. Die Blocklisten stammen teilweise von Dritten und können daher nicht auf Richtigkeit geprüft werden.
 
 # Blocklisten (Copy & Paste):
 
